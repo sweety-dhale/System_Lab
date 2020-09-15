@@ -1,0 +1,7 @@
+1 . Command for compiling the code  
+
+	make
+
+2. Command to run the code 
+
+	java Ques_2
